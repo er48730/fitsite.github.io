@@ -1,0 +1,169 @@
+html {
+    scroll-behavior:  smooth;
+}
+body {
+    overflow-x: hidden;
+}
+#col-header-description{
+    margin-top: 10%;
+}
+.header{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.274), black)  ,url(1.jpg);
+    height: 750px;
+    
+}
+
+#h1-header{
+    color: white;
+    margin-bottom: 1rem;
+}
+#h2-header{
+    color: rgb(42, 50, 129);
+    margin-bottom: 1rem;
+}
+#btn-header{
+    background-color: aqua;
+    margin-top: 1rem;
+    font-size: 24px;
+}
+.line{
+    height: 5px;
+    background-color: aqua;
+}
+.about {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.274), black)  ,url(1.jpg);
+    color: white;
+    
+    padding-top: 100px;
+}
+#line-small{
+
+    height: 5px;
+    background-color: aqua;
+    width: 80px;
+}
+.img-about{
+    height: 400px;
+    width: 400px;
+}
+#img-about {
+    margin-bottom: 100px;
+}
+.img-carousel{
+    min-height: 700px;
+    max-height: 700px;
+}
+#logo{
+    margin-top: 5rem!important;
+}
+#h1-carousel {
+    position: absolute;
+    bottom: 300px;
+    left: 60px;
+    font-size: 105px;
+    color: white;
+}
+#h2-carousel{
+    position: absolute;
+    bottom: 150px;
+    left: 60px;
+    text-align: left;
+    font-size: 40px;
+    color: white;
+}
+.img-features {
+    max-height: 500px;
+    min-width: 400px;
+    border: 3px solid aqua;
+    border-radius: 10px;
+}
+#text-features {
+    font-style: italic;
+}
+.features {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.274), black)  ,url(1.jpg);
+    
+    color: white;
+    padding-bottom: 3rem;
+}
+.contact {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.274), black)  ,url(1.jpg);
+    
+    color: white;
+}
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='aqua' stroke='black'  viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+  border-radius: 2px;
+  height: 150px;
+  width: 110px;
+  background-color: white;
+ 
+  
+}
+
+.carousel-control-prev-icon {
+    border-radius: 2px;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='aqua' stroke='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+    height: 150px;
+    width: 110px;
+    background-color: white;
+}
+#fab{
+    font-size: 60px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    color: aqua;
+}
+.counter-section {
+    font-size: 50px;
+    background-image: linear-gradient(to left, black, rgba(255, 255, 255, 0)), url(https://images.wallpaperscraft.com/image/single/dumbbells_sports_gym_106546_2560x1080.jpg);
+    background-size: cover;
+    color: white;
+    
+}
+#a-footer{
+    color: aqua;
+    font-size: 50px;
+}
+.footer{
+    background-image: linear-gradient(to right, rgba(0, 0, 0.534), black), url(1.jpg);
+    
+}
+#footer {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.334), rgba(0, 0, 0, 0.534))  ,url(https://media.istockphoto.com/photos/fitness-equipment-on-the-floor-at-the-gym-picture-id1287504319?b=1&k=20&m=1287504319&s=170667a&w=0&h=S8WDmnyexlQQ6nQhQByZ64RBMX_O7bMyT1ZgP0hteiY=);
+    
+    width: 100%;
+    background-size: cover;
+}
+.fa-brands{
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+#footer-span{
+    font-size: 30px;
+    color: white;
+}
+.btn-a{
+    color: aqua;
+}
+.edit1 {
+    margin-left: 120px;
+}
+.edit2 {
+    margin-left: 120px;
+}
+.nav {
+    box-shadow: 0px 2px 2px 0px aqua;
+    font-size: 20px;
+    transition: all .4s;
+    opacity: 0;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+.actives{
+    border-bottom: 2px solid red;
+}
+#logo{
+    margin-top: 10px;
+}
